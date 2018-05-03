@@ -1,5 +1,5 @@
 {
-    "name": "EEG to D3",
+    "name": "EEGtoD3",
     "version": "0.0.0",
     "description": "Take the data from the Emotive and broadcast to listening clients",
     "dependencies": {
